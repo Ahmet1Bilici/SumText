@@ -12,7 +12,7 @@ const Hero = () => {
           onClick={() =>
             window.open("https://github.com/Ahmet1Bilici/SumzText")
           }
-          className="black-btn"
+          className="black_btn"
         >
           github
         </button>
