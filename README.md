@@ -1,8 +1,22 @@
-# React + Vite
+# SumzText
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Simplify your reading with SumzText, an open-sourxe text summarizer that transforms length texts into clear and concise summaries for your advantage.
 
-Currently, two official plugins are available:
+Designed and Developed by using
+- React.js
+- Vite.js
+- TailwindCSS
+- RapidAPI (Article Extractor and Summarizer API)
+- Redux Toolkit
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Features
+-Accepts URL as input and process text in given URL
+-Leveraged OpenAI GPT-4 model to summarizes given text
+-Saves search history using local storage 
+-Handles form events and catches errors
+-Implements copy to clipboard
+
+Try it yourslef by link below
+
+https://phenomenal-scone-af3f58.netlify.app/
