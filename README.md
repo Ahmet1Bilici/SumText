@@ -17,6 +17,6 @@ Features
 -Handles form events and catches errors
 -Implements copy to clipboard
 
-Try it yourslef by link below
 
+Live demo link
 https://phenomenal-scone-af3f58.netlify.app/
