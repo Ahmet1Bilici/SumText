@@ -1,6 +1,6 @@
 # SumzText
 
-Simplify your reading with SumzText, an open-sourxe text summarizer that transforms length texts into clear and concise summaries for your advantage.
+Simplify your reading with SumzText, an open-source text summarizer that transforms length texts into clear and concise summaries for your advantage.
 
 Designed and Developed by using
 - React.js
